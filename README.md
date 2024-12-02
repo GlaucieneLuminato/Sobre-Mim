@@ -6,7 +6,7 @@ Este repositório conta a história da minha trajetória profissional, desde os 
 
 *Sobre mim*
 
-Desenvolvedor front-end apaixonado por tecnologia e educação. Com experiência em React.js, Styled Components, Vue.js e Sass. Voluntário em projetos de alfabetização.
+Desenvolvedora front-end apaixonada por tecnologia e educação. Com experiência em React.js, Styled Components, Vue.js e Sass. Voluntário em projetos de alfabetização.
 
 *Objetivo*
 
